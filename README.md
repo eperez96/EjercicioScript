@@ -5,7 +5,7 @@
 | S.O. | Instructivos |
 | ------ | ------ |
 | Linux | [Como instalar en Linux](https://www.comoinstalarlinux.com/como-instalar-python-3-en-tu-distro-linux/) |
-| Windows | [docs.python.org/Windows](https://docs.python.org/3/using/windows.html#the-full-installer) |
+| Windows | [Como instalar en Windows](https://docs.python.org/3/using/windows.html#the-full-installer) |
 
 Ademas se requieren los siguientes modulos:
 | Modulo | Descarga | Documentación |
@@ -57,7 +57,7 @@ El script generará un archivo por cada usuario con el nombre: **userId_log.txt*
  root@ubuntu:~$ COMPLETADO
  ```
  En este caso se generaron dos archivos: 
- - 179571326_log.txt 
- - 158482976_log.txt
+ - [179571326_log.txt](https://github.com/eperez96/EjercicioScript/blob/master/179571326_log.txt)
+ - [158482976_log.txt](https://github.com/eperez96/EjercicioScript/blob/master/158482976_log.txt)
  
  Dentro de cada uno se encuentra una tabla con la informacion solicitada.
