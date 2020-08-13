@@ -1,0 +1,54 @@
++--------------+----------------------------------------------------------------+-------------+--------------------------------+
+|      Id      |                             Title                              | Category_Id |         Category_Name          |
++--------------+----------------------------------------------------------------+-------------+--------------------------------+
+| MLA865519381 |        Booster Con Respaldo Mega Baby Silverstone Gris         |   MLA1387   | Huevitos y Sillitas para Autos |
+| MLA865520687 |        Booster Con Respaldo Mega Baby Silverstone Rojo         |   MLA1387   | Huevitos y Sillitas para Autos |
+| MLA861343140 |     Silla Infantil Para Auto Joie Every Stage Dark Pewter      |   MLA1387   | Huevitos y Sillitas para Autos |
+| MLA867042210 |      Silla Infantil Para Auto Chicco Youniverse Fix Pearl      |   MLA1387   | Huevitos y Sillitas para Autos |
+| MLA824974508 | Booster Con Respaldo Britax Clicktight Frontier Cool Flow Grey |   MLA1387   | Huevitos y Sillitas para Autos |
+| MLA830870058 |  Silla Porta Bebe Mega Baby Música Vibración Barra Juguet 9kg  |  MLA127671  |        Sillas Mecedoras        |
+| MLA665945359 |           Coche Joie Mellizos Aire Twin Envio Gratis           |   MLA1386   |     Cochecitos para Bebés      |
+| MLA717684342 |  Coche Cuna Joie Pact Ultraliviano Plegado Compacto Creciendo  |   MLA1386   |     Cochecitos para Bebés      |
+| MLA726730972 |  Cochecito Cuna Bebe Joie Pact Ultraliviano 5.5 Kg Compacto    |   MLA1386   |     Cochecitos para Bebés      |
+| MLA761963110 |     Disney D-lectables Organizador Con Accesorios 7 Piezas     |  MLA432889  |             Otros              |
+| MLA866114047 |  Cochecito Bebé Mega Baby Icon + Butaquita Aluminio Gama Alta  |   MLA1386   |     Cochecitos para Bebés      |
+| MLA761961425 |   Disney D- Lectables Coleccion Princesas Blister 20 Piezas    |   MLA3422   |  Muñecos y Figuras de Acción   |
+| MLA867051819 |          Bandeja Britax Para Coche B-lively Creciendo          |   MLA1386   |     Cochecitos para Bebés      |
+| MLA758034512 |       Lampara Mágica Fisher Price Con Frases Y Sonidos         |   MLA2968   |       Muñecas y Bebotes        |
+| MLA859858979 |      Sacaleche Extractor Manual Bebe Priori By Creciendo       |   MLA39945  |           Sacaleches           |
+| MLA615668929 |    Bañera Para Bebe Plegable Mega Baby Creciendo Importador    |  MLA417892  |       Bañeras para Bebés       |
+| MLA691441462 |  Butaca Booster Mega Baby Auto Bebe 3en1 Mega Baby 9 A 36 Kg   |   MLA1387   | Huevitos y Sillitas para Autos |
+| MLA839639273 |  Puerta De Seguridad Barrera Metalica Mega Baby En Creciendo   |   MLA74019  |      Puertas de Seguridad      |
+| MLA793437400 |    Bañera Para Bebe Plegable Mega Baby Azul Rosa Y Verde       |  MLA417892  |       Bañeras para Bebés       |
+| MLA673170904 |  Alfombra Antideslizante P/ Bañera Antihongos Baby Innovation  |  MLA409458  |        Otros Artículos         |
+| MLA855206616 |    Espejo Retrovisor Mega Baby Grande Para Asiento Trasero     |  MLA413741  |      Espejos Retrovisores      |
+| MLA839642930 |  Baranda Para Cama Plegab. Universal Megababy Camas Y Sommier  |  MLA412822  |            Barandas            |
+| MLA736623055 |        Cepillo Limpia Biberon Avent Mamaderas Creciendo        |  MLA409386  |            Cepillos            |
+| MLA831004451 |     Juliana Burbujas Burbujero Automatico Con Luz Origina      |  MLA388313  |           Burbujeros           |
+| MLA714146301 |      Mamadera Biberon Natutal  Philips Avent De 125ml 0m+      |   MLA5363   |           Mamaderas            |
+| MLA797219002 |     Red De Baño Para Sostener Al Bebe En Bañeras Mega Baby     |   MLA72219  |            Arneses             |
+| MLA858803924 |     Tetinas Natural Para Mamaderas Avent By 0+/ 1+/ 3+/ 6+     |  MLA409384  |            Tetinas             |
+| MLA824150515 |     Puerta De Seguridad Barrera Escalera Safety 71 A 96cm      |   MLA74019  |      Puertas de Seguridad      |
+| MLA714152770 |  Mamadera Biberon Natutal  Philips Avent De 330ml 3m+ Anticol  |   MLA5363   |           Mamaderas            |
+| MLA858778320 |  Dosificador Para Leche En Polvo 3 Divisiones Avent Dispenser  |   MLA5361   |             Otros              |
+| MLA830869548 |   Silla Porta Bebe Mega Baby Música Vibración Barra Juguetes   |  MLA127671  |        Sillas Mecedoras        |
+| MLA735473769 |     Juliana Doctora Grande Valija Luz Y Sonidos Creciendo      |  MLA352340  |      Valijitas de Juguete      |
+| MLA741878463 |                Vaso Avent 200 Ml Easy Sip Nena                 |   MLA39964  |             Vasos              |
+| MLA863914856 |  Silla De Comer Mega Baby Multy Posiciones Bandeja Extraible   |   MLA1391   |        Sillas de Comer         |
+| MLA758449992 |   Valija Juliana Diseño De Uñas Grande Con Esmaltes Original   |  MLA352340  |      Valijitas de Juguete      |
+| MLA671226609 |   Booster Mega Baby Isofix Nuevo Modelo Homologado Nueva Ley   |   MLA1387   | Huevitos y Sillitas para Autos |
+| MLA690312422 |     Butaca Bebe Auto Joie Every Stages 0-36 Kg 0 A1 2 Años     |   MLA1387   | Huevitos y Sillitas para Autos |
+| MLA855191239 |  Silla De Comer Mega Baby Multi Posic Altura Bandj Extraible   |   MLA1391   |        Sillas de Comer         |
+| MLA827126463 |         Flotante Guima Talle Unico, Excelente Calidad          |   MLA74020  |             Otros              |
+| MLA694206204 |       Alicate Con Lupa Baby Innovation Mod 52 Creciendo        |  MLA417888  |             Otros              |
+| MLA850625847 |   Magic Cup Vaso Evolution Nuk 230 Ml +8 Meses 360 Antigoteo   |   MLA39964  |             Vasos              |
+| MLA740995203 |     Andador Mega Baby Bebe Musical Bandeja Con Actividades     |   MLA39950  |    Andadores y Caminadores     |
+| MLA852420781 |  Pantalon Bebe Interlock Prima Estampado Animalito 100 % ALG   |   MLA24741  |           Pantalones           |
+| MLA677361454 |              Bloques Disney Mickey Sb001 35 Pzas.              |   MLA1157   |     Bloques y Construcción     |
+| MLA856184124 |     Sabanas Para Bebé Colecho 110 X 75 Cm Bordada 3 Piezas     |   MLA39953  |            Sábanas             |
+| MLA852381599 |    Batita Interlock Pima Estampada Cruzada 100 % Algodon       |   MLA82371  |             Batas              |
+| MLA871687943 |         Valija Juliana Make Up Unicorn Chica Creciendo         |  MLA352340  |      Valijitas de Juguete      |
+| MLA864021055 |     Jarra Para Enjuagar Bebe Mega Baby Con Borde Silicona      |  MLA399205  |  Shampoos y Acondicionadores   |
+| MLA869166225 |     Valija Juliana Veterinaria Chica Original Con Licencia     |  MLA352340  |      Valijitas de Juguete      |
+| MLA851774422 |  Repuesto Sorbete Pajita Para Vaso Avent Philips By Creciendo  |   MLA39964  |             Vasos              |
++--------------+----------------------------------------------------------------+-------------+--------------------------------+
