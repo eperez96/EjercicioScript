@@ -7,9 +7,6 @@ UrlBase =  "https://api.mercadolibre.com"
 UrlItemsSeller = UrlBase + "/sites/MLA/search"
 UrlCategories = UrlBase + "/categories/"
   
-#Preguntar si es usuario simple o texto
-sellersIdListad = ['179571326']
-
 def get_CategoryName_Result(category_id):
     # Obtencion de categoria por id
     responseCategories = requests.get(url = UrlCategories + category_id)
